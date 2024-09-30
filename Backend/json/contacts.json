@@ -1,0 +1,44 @@
+{
+    "contacts": [
+        {
+            "id": 1,
+            "name": "João Silva"
+        },
+        {
+            "id": 2,
+            "name": "Maria Rodrigues"
+        },
+        {
+            "id": 3,
+            "name": "Pedro Oliveira"
+        },
+        {
+            "id": 4,
+            "name": "Ana Luiza"
+        },
+        {
+            "id": 5,
+            "name": "Carlos Alberto"
+        },
+        {
+            "id": 6,
+            "name": "Juliana Martins"
+        },
+        {
+            "id": 7,
+            "name": "Ricardo Santos"
+        },
+        {
+            "id": 8,
+            "name": "Luisa Fernandes"
+        },
+        {
+            "id": 9,
+            "name": "Gabriel Costa"
+        },
+        {
+            "id": 10,
+            "name": "Beatriz Souza"
+        }
+    ]
+}
